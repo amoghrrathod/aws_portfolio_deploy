@@ -20,7 +20,7 @@ The project was developed as part of a self-initiated cloud learning journey in 
 
 ## 🖼️ Architecture Diagram
 
-![AWS Architecture Diagram](https://github.com/user-attachments/assets/3ca93659-1ab4-459e-a083-a558ebe89d2b)
+![AWS Architecture Diagram](https://github.com/user-attachments/assets/648fd733-f42f-40ed-9d42-f0c476f8c9b1)
 
 ---
 
