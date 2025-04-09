@@ -18,6 +18,11 @@ The project was developed as part of a self-initiated cloud learning journey in 
 - **Storage:** Amazon EBS (Free Tier)
 - **Monitoring & Governance:** AWS Budgets, SNS notifications, and Systems Manager automation
 
+## 🖼️ Architecture Diagram
+
+![AWS Architecture Diagram](![aws_infra](https://github.com/user-attachments/assets/f797b20a-c1a6-4a1c-98ab-fb8f2ec2de8b)
+)
+
 ---
 
 ## ⚙️ Implementation Steps
